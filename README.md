@@ -1,4 +1,4 @@
-# SMIS
+# SMIS - Smart Microgreen Irrigation System
 Smart Microgreen Irrigation System project with IoT using ThingSpeak server
 
 This project seeks to develop an automated system to use in a home microgreen farm. It will be developed on a ESP32 DevKit in the C programming language. 
